@@ -28,7 +28,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'autumn-dust-24aa.slp.workers.dev': 1,
       }
     },
   
@@ -36,10 +36,16 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'silent-surf-d91d.slp.workers.dev': 1,
       },
     },
     
+          'defalut4': {
+      label: '第5通道',
+      lines: {
+        'patient-dawn-c393.slp.workers.dev': 1,
+      },
+    },
    
       'cfworker': {
       label: '',
