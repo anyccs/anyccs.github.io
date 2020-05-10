@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'nameless-pine-3397.csk.workers.dev': 1,
       }
     },
     
