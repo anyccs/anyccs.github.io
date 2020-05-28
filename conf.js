@@ -46,6 +46,13 @@ jsproxy_config({
         'patient-dawn-c393.slp.workers.dev': 1,
       },
     },
+    
+           'defalut5': {
+      label: '第6通道',
+      lines: {
+        'falling-silence-7317.csk.workers.dev': 1,
+      },
+    },
    
       'cfworker': {
       label: '',
